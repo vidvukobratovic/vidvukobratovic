@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a software engineer, primarly doing front end work.
 
+I work with React (TypeScript) and .NET
 <!--
 **vidvukobratovic/vidvukobratovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
